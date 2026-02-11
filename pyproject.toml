@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "SkelToJson"
-version = "1.0.0"
+version = "1.0.1"
 description = "Convert Spine binary .skel files to JSON (Spine 4.2/4.3)"
 readme = "README.md"
 license = "MIT"
