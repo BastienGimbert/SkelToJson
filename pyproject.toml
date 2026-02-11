@@ -27,5 +27,11 @@ classifiers = [
 [project.scripts]
 skel-to-json = "SkelToJson.cli:main"
 
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
 [project.urls]
-Homepage = "https://github.com/BastienGIMBERT/SkelToJson"
+Homepage = "https://github.com/BastienGimbert/SkelToJson"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
