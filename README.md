@@ -1,6 +1,6 @@
 # SkelToJson - Spine 2D Binary to JSON Converter
 
-![SkelToJson](image.png)
+![SkelToJson](https://raw.githubusercontent.com/BastienGimbert/SkelToJson/refs/heads/main/image.png)
 
 Convert Spine 2D binary `.skel` files to human-readable JSON — supports **Spine 4.2.x** and **4.3.x**.
 
